@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B3820"/>
+      <stop offset="100%" stop-color="#C45C3B"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg2)"/>
+  <path d="M256 110 C230 155 188 192 174 248 C160 298 172 340 200 368 C222 390 242 400 256 402 C270 400 290 390 312 368 C340 340 352 298 338 248 C324 192 282 155 256 110Z" fill="#F2D5C8" opacity="0.92"/>
+  <line x1="256" y1="290" x2="256" y2="410" stroke="#EDD9B8" stroke-width="15" stroke-linecap="round" opacity="0.9"/>
+  <path d="M256 350 C228 335 198 342 188 366" stroke="#EDD9B8" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M256 385 C284 370 314 377 324 401" stroke="#EDD9B8" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <text x="256" y="476" font-family="Georgia,serif" font-size="48" font-weight="bold" fill="#F2D5C8" text-anchor="middle" letter-spacing="5" opacity="0.88">BAF</text>
+</svg>
